@@ -1,0 +1,8 @@
+{
+  "debug": true,
+  "api_token_debug": "xxx",
+
+  "api_token": "xxx",
+  "webhook_host": "https://example.com",
+  "webhook_path": "/webhook/ninetailedbot"
+}
