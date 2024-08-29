@@ -1,8 +1,0 @@
-{
-  "debug": true,
-  "api_token_debug": "7325266630:AAGs9HgwHc3IgPSFDCLdeq6sRXPVZkJgc38",
-
-  "api_token": "7536087340:AAHfIhH7-d464e5VjUfH4sq8SIaK1Likugw",
-  "webhook_host": "https://koshy.ru",
-  "webhook_path": "/webhook/ninetailedbot"
-}
