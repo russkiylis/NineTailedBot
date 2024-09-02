@@ -29,7 +29,7 @@ def load_config(lng_path: Path) -> Lang:  # Function to load language
 # Config loading
 try:
     lang = load_config(lang_path)  # loading..
-    logger.success(f"Config loaded successfully: {cfg}")
+    logger.success(f"Language loaded successfully: {cfg}")
 
 except Exception as e:
-    logger.critical(f"Failed to load config: {e}")
+    logger.critical(f"Failed to load language: {e}")
