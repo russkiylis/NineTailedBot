@@ -4,5 +4,7 @@
 
   "api_token": "xxx",
   "webhook_host": "https://example.com",
-  "webhook_path": "/webhook/ninetailedbot"
+  "webhook_path": "/webhook/ninetailedbot",
+
+  "console_lang": "ru"
 }
